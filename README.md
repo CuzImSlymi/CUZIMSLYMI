@@ -1,7 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d1b4e,100:1a1a1a&height=200&section=header&text=Slymi&fontSize=80&fontColor=f0f0f5&animation=fadeIn&fontAlignY=35)](https://slymi.org)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BB7CFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Architecture+%26+Efficiency;Building+tools+that+save+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BB7CFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%2F+ML+Architecture;Desktop+%26+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,23 +12,25 @@
 
 ---
 
-## 🔭 Current Focus
+## Current Projects
 
-**[Apertis LLM](https://github.com/CuzImSlymi/Apertis-LLM)** — Novel multimodal architecture with O(n) complexity  
-**Calorie AI** — AI-powered nutrition tracking  
-**[BSS-AI](https://github.com/BSS-AI/BSS-AI)** — Computer vision & automation
-
-Obsessed with AI efficiency. Building stuff that actually saves time.
+| Project | Description |
+|---------|-------------|
+| **[Apertis LLM](https://github.com/CuzImSlymi/Apertis-LLM)** | Multimodal architecture with O(n) complexity |
+| **Calorie AI** | AI-powered nutrition tracking |
+| **[BSS-AI](https://github.com/BSS-AI/BSS-AI)** | Computer vision & automation |
+| **[BSSMValues](https://bssmvalues.com)** | Website for BSS |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey_v2-334455?style=flat&logo=autohotkey&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=roblox&logoColor=white)
@@ -38,6 +40,7 @@ Obsessed with AI efficiency. Building stuff that actually saves time.
 
 **Frameworks & Libraries**
 
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
@@ -50,7 +53,7 @@ Obsessed with AI efficiency. Building stuff that actually saves time.
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
-**AI & ML**
+**AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -59,12 +62,7 @@ Obsessed with AI efficiency. Building stuff that actually saves time.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CuzImSlymi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=bb7cff&text_color=c9d1d9&icon_color=bb7cff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuzImSlymi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=bb7cff&text_color=c9d1d9"/>
-</div>
+## Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuzImSlymi&theme=dark&hide_border=true&background=0d1117&ring=bb7cff&fire=bb7cff&currStreakLabel=bb7cff"/>
@@ -73,17 +71,13 @@ Obsessed with AI efficiency. Building stuff that actually saves time.
 ---
 
 <div align="center">
-
-### 📫 Contact
-
-<a href="https://slymi.org">
-  <img src="https://img.shields.io/badge/Portfolio-slymi.org-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:justin@slymi.org">
-  <img src="https://img.shields.io/badge/Email-justin@slymi.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://discord.com/users/489797963481219087">
-  <img src="https://img.shields.io/badge/Discord-489797963481219087-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
+  <a href="https://slymi.org">
+    <img src="https://img.shields.io/badge/Portfolio-slymi.org-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:justin@slymi.org">
+    <img src="https://img.shields.io/badge/Email-justin@slymi.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.com/users/489797963481219087">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </div>
